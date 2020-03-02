@@ -14,6 +14,7 @@ class TabBarController: UITabBarController, UITabBarControllerDelegate {
     private var ciclistasVC: UIViewController!
     private var equiposVC: UIViewController!
 
+    
     private var manager = BBDDManager.getInstance()
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -26,6 +27,8 @@ class TabBarController: UITabBarController, UITabBarControllerDelegate {
             ciclistVC.button.close()
         }
     }
+    
+    //Hola Git
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
         tabBar.backgroundColor = ThemeColor.stucomWhiteBar.HCColor
