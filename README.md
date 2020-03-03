@@ -55,16 +55,18 @@ _Ahora para que los canvios realizados sean efectivos, en la rama master utiliza
 _El compañero se descarga mi proyecto, realizo modificaciones en el proyecto y mi compañero tambien hace una modificación en la misma linea que la he hecho yo y así generamos un conflicto de control de versiones._
 
 
-<img width="650" alt="Cap14" src="https://user-images.githubusercontent.com/59737408/75810399-d1813f80-5d8a-11ea-98c3-aaf3c339fdd1.png">
-
 <img width="650" alt="Cap15" src="https://user-images.githubusercontent.com/59737408/75810410-d47c3000-5d8a-11ea-9c3e-e50f15d63bb3.png">
 
 
+_Modificamos una linea y subimos los cambios realizados con los comandos **git add** + **git commit -m "Linea cambiada" ** + **git push origin master **._
 
+<img width="260" alt="Cap16" src="https://user-images.githubusercontent.com/59737408/75810546-12795400-5d8b-11ea-8536-e8fa9c5a2e1f.png">
 
+<img width="507" alt="Cap17" src="https://user-images.githubusercontent.com/59737408/75810549-13aa8100-5d8b-11ea-830e-9a42a7d92c73.png">
 
+## Para finalizar
 
-
-
+_Con el comando **git status** vemos que todo esta correcto._
+<img width="344" alt="Cap18" src="https://user-images.githubusercontent.com/59737408/75810728-684dfc00-5d8b-11ea-9393-0ac19cb1f44c.png">
 
 
