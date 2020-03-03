@@ -44,11 +44,11 @@ _Ahora volvemos a la rama master con el comando, **git checkout master** ._
 <img width="549" alt="Cap10" src="https://user-images.githubusercontent.com/59737408/75809266-d04f1300-5d88-11ea-9ffb-82872fff3073.png">
 
 
-_Despues de hacer varias modificaciones todas validas en diferentes partes del codigo, cuando se valida que el código es correcto se publica en la rama master haciendo una fusion de ramas con el comando **git merge develop ** ._
+_Despues de hacer varias modificaciones todas validas en diferentes partes del codigo, cuando se valida que el código es correcto se publica en la rama master haciendo una fusion de ramas con el comando **git merge develop** ._
 
 <img width="549" alt="Cap 11" src="https://user-images.githubusercontent.com/59737408/75809742-8c104280-5d89-11ea-8700-19a389935c47.png">
 
-_Ahora para que los canvios realizados sean efectivos, en la rama master utilizamos el comando **git push origin master** ._
+_Ahora para que los canvios realizados sean efectivos, en la rama master utilizamos el comando **git push origin master**._
 
 <img width="650" alt="Cap13" src="https://user-images.githubusercontent.com/59737408/75809908-ce398400-5d89-11ea-9fe5-e773e291e019.png">
 
@@ -60,7 +60,7 @@ _El compañero se descarga mi proyecto, realizo modificaciones en el proyecto y 
 <img width="650" alt="Cap15" src="https://user-images.githubusercontent.com/59737408/75810410-d47c3000-5d8a-11ea-9c3e-e50f15d63bb3.png">
 
 
-_Modificamos una linea y subimos los cambios realizados con los comandos **git add** + **git commit -m "Linea cambiada" ** + **git push origin master **._
+_Modificamos una linea y subimos los cambios realizados con los comandos **git add** + **git commit -m "Linea cambiada"** + **git push origin master **._
 
 <img width="260" alt="Cap16" src="https://user-images.githubusercontent.com/59737408/75810546-12795400-5d8b-11ea-8536-e8fa9c5a2e1f.png">
 
