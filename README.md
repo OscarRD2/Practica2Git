@@ -20,7 +20,9 @@ _Subimos un proyecto ya existente a mi repositorio, hacemos **git init** para in
 <img width="568" alt="Cap4" src="https://user-images.githubusercontent.com/59737408/75798782-582c2180-5d77-11ea-8996-ab5465cbb6e4.png">
 
 <img width="564" alt="Cap5" src="https://user-images.githubusercontent.com/59737408/75798771-55c9c780-5d77-11ea-9b05-f2f0e8c1f0a6.png">
-_Subimos los archivos con **git push --set-upstream origin master**  _
+
+_Subimos los archivos con **git push --set-upstream origin master**_
+
 <img width="564" alt="Cap6" src="https://user-images.githubusercontent.com/59737408/75798799-60845c80-5d77-11ea-8ccf-94649bdca000.png">
 
 _Ahora creamos una nueva rama con el nombre de **Develop** con el comando **git checkout -b develop**_
